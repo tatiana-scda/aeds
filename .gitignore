@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+#MAC OS trash
+*.DS_Store
+.DS_Store
+
 # Object files
 *.o
 *.ko
